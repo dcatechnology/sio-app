@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zipkin-server-2.21.1-exec">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zipkin-server-2.21.1-exec.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
